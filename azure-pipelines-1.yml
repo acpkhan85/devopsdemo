@@ -18,6 +18,7 @@ steps:
   inputs:
     command: 'build'
 - script: |
+    cd myapp"
     npm install -g @angular/cli
     npm install
     ng build --prod
