@@ -35,7 +35,7 @@ namespace webApiErrorHandling
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                app.UseDeveloperExceptionPage(); //test
             }
 
             app.UseMvc();
