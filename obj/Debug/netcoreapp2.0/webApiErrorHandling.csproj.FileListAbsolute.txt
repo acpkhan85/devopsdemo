@@ -1,0 +1,10 @@
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\bin\Debug\netcoreapp2.0\webApiErrorHandling.deps.json
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\bin\Debug\netcoreapp2.0\webApiErrorHandling.runtimeconfig.json
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\bin\Debug\netcoreapp2.0\webApiErrorHandling.runtimeconfig.dev.json
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\bin\Debug\netcoreapp2.0\webApiErrorHandling.dll
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\bin\Debug\netcoreapp2.0\webApiErrorHandling.pdb
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\obj\Debug\netcoreapp2.0\webApiErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\obj\Debug\netcoreapp2.0\webApiErrorHandling.AssemblyInfoInputs.cache
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\obj\Debug\netcoreapp2.0\webApiErrorHandling.AssemblyInfo.cs
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\obj\Debug\netcoreapp2.0\webApiErrorHandling.dll
+C:\Users\Shreedhar\Desktop\demo\devopsdemo\obj\Debug\netcoreapp2.0\webApiErrorHandling.pdb
